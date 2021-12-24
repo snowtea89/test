@@ -15,7 +15,7 @@ test('로그인', async t => {
     .click('#mArticle > div.box_floating_video > div > div > div.wrap_btn > a.link.floating_close > img')
 });
 test('로그인', async t => {
-    // Test code
+    // Test codeㄴ
     await t
     .click('#mAcle > div.box_floating_video > div > div > div.wrap_btn > a.link.floating_close > img')
 });
