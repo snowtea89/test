@@ -7,4 +7,5 @@ fixture `이투스닷컴`
 test('로그인', async t => {
     // Test code
     await t
+    .click('#etoosHead > div.container > div.common_nav_tool > ul > li:nth-child(1)')
 });
